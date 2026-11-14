@@ -1,4 +1,4 @@
-# playwright_toolshop_web_tests
+# playwright-toolshop-web-tests
 
 UI tests for the demo web shop https://practicesoftwaretesting.com
 Stack: Python, pytest, Playwright, Page Object pattern.
